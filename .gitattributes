@@ -1,0 +1,6 @@
+# .gitattributes
+* text=auto
+
+# Explicitly specify which files should have which line endings
+*.js    eol=lf
+*.json  eol=lf
